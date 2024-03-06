@@ -4,12 +4,11 @@
   "description": "placement cell app skill test 1 by coding ninja ",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sahil-Sayyad/Placement_Cell.git"
+    "url": "git+https://github.com/codewithabdur/placement-cell-git.git"
   },
   "keywords": [
     "placementcellapp"
@@ -17,9 +16,9 @@
   "author": "Sahil Sayyad",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sahil-Sayyad/Placement_Cell/issues"
+    "url": "https://github.com/codewithabdur/placement-cell-git.git"
   },
-  "homepage": "https://github.com/Sahil-Sayyad/Placement_Cell#readme",
+  "homepage": "https://github.com/codewithabdur/placement-cell-git.git#readme",
   "dependencies": {
     "@babel/core": "^7.22.9",
     "@babel/preset-env": "^7.22.9",
