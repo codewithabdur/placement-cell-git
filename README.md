@@ -1,10 +1,6 @@
 ## Table of Contents
 -  <b> [Features](#features)</b>
 -  <b> [Getting Started](#getting-started)</b>
--  <b> [Tech Stack](#Tech-Stack) </b>
--  <b> [Project Demo](#Project-Demo) </b>
--  <b> [Author](#Author)</b>
-
 ## Features
 -  <b>1. Authentication System </b>
      <p>The web application had a secure sign-up and sign-in system exclusively for company employees. This ensured that only authorized users could access and manage the data.</p>
